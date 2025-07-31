@@ -1,2 +1,2 @@
 # CalculatorByCSharp
-C#版计算器程序Demo
+C#版简易计算器程序Demo
